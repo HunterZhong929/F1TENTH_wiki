@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "e9a713cf21d2c22c",
+    "type": "split",
+    "children": [
+      {
+        "id": "469b3e0428305a8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a46d1e32f1a92b1e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4f6e07136d836ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "440-wk3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7cf2a97dbe4fd89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS2 overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ef98a7539d3ae72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMake.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc1582da1e18f9e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMake.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca4c08806dac68ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12ea40f7dec6bc3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bfed8bfdd333df9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parameters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e51be0a5d1ae3f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMake.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b903ab64a3f0115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMake.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24ac7d595b6e73da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "440-wk3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "254f1e6cf20cda6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "36e25e2930f095dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b506fb84f434038c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b6b4e40e6e028cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89ce5496b2c9d895",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56a0ee19339e1d22",
+    "type": "split",
+    "children": [
+      {
+        "id": "85102d5a1b73e36f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f779ec775904275",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "440-wk3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd744e4beb933e41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "440-wk3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bea8b07f52fda9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "108321055c490f25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "440-wk3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24ac7d595b6e73da",
+  "lastOpenFiles": [
+    "CMake.md",
+    "Overlay and Underlay in ROS.md",
+    "Python Packages.md",
+    "Ackermann Steering.md",
+    "Service.md",
+    "Topics.md",
+    "Actions.md",
+    "Parameters.md",
+    "ROS2 overview.md",
+    "Pasted image 20230924154153.png",
+    "Pasted image 20230924152909.png",
+    "Pasted image 20230923235332.png",
+    "440-wk3.md"
+  ]
+}
