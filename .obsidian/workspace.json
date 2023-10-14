@@ -141,14 +141,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS1 Starting New Catkin Workspace and Package.md",
+                "file": "ROS1_References/ROS1 Starting New Catkin Workspace and Package.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "101a82ae8001f3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS1_References/Publisher and Subscriber Nodes (Python).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -177,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS1 Starting New Catkin Workspace and Package.md",
+                "file": "ROS1_References/Publisher and Subscriber Nodes (Python).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS1 Starting New Catkin Workspace and Package.md",
+                "file": "ROS1_References/Publisher and Subscriber Nodes (Python).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS1 Starting New Catkin Workspace and Package.md"
+                "file": "ROS1_References/Publisher and Subscriber Nodes (Python).md"
               }
             }
           }
@@ -275,10 +287,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb0b69895d981021",
+  "active": "101a82ae8001f3eb",
   "lastOpenFiles": [
+    "ROS1_References/ROS1 Starting New Catkin Workspace and Package.md",
+    "ROS1_References/Publisher and Subscriber Nodes (Python).md",
+    "ROS1_References",
+    "ROS2 overview.md",
     "440-wk3.md",
-    "ROS1 Starting New Catkin Workspace and Package.md",
     "CMake.md",
     "Overlay and Underlay in ROS.md",
     "Python Packages.md",
@@ -287,7 +302,6 @@
     "Topics.md",
     "Actions.md",
     "Parameters.md",
-    "ROS2 overview.md",
     "Pasted image 20230924154153.png",
     "Pasted image 20230924152909.png",
     "Pasted image 20230923235332.png"
