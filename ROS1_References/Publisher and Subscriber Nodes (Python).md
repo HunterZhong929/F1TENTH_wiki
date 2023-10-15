@@ -27,5 +27,4 @@ If you have not done so already, source your files. Then, to run a script:
 ```bash
 	rosrun package_name script_name.py
 ```
-
 Note: For C++ scripts, everything is basically the same except you omit '.py' from the script names. 

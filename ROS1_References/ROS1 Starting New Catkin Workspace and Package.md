@@ -5,10 +5,10 @@ Open a new terminal. Make the following directories:
 	cd workspace_name
 	mkdir src
 ```
-Now, making sure you are in workspace_name/src, to make your package:
+Now, making sure you are in `workspace_name/src`, to make your package:
 ```bash
 	catkin_create_pkg package_name std_msgs rospy roscpp
-	cd workspace_name
+	cd ~/workspace_name
 	catkin_make
 ```
 To add the workspace to your ROS environment you need to source the generated setup file. This needs to be done in every new terminal opened
