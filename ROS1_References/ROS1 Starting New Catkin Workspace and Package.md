@@ -17,7 +17,8 @@ To add the workspace to your ROS environment you need to source the generated se
 	source /opt/ros/melodic/setup.bash
 ```
 
-Note: Any scripts/nodes that you create are placed into your package folder
+Note1: Any scripts/nodes that you create are placed into your package folder.
 ```bash
 	cd ~/catkin_ws/package_name
 ```
+Note2: Catkin workspaces do not come with the F1Tenth simulator installed. You must follow the "F1Tenth Simulator Install" instructions to get it running.
